@@ -1,5 +1,5 @@
 body {
-  background-color: ##081018;
+  background-color: #081018;
 }
 
 .lightmode {
@@ -10,4 +10,5 @@ body {
   width: 100%;
   max-height: 200px;
   min-height: 100px;
+  background-color: red;
 }
