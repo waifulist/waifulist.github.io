@@ -12,3 +12,11 @@ body {
   min-height: 100px;
   background-color: red;
 }
+
+.nav ul {
+
+}
+
+li {
+  list-style-type: none;
+}
